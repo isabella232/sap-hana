@@ -267,7 +267,6 @@
   },
   "options": {
     "enable_secure_transfer": true,
-    "ansible_execution": true,
     "enable_prometheus": false
   }
 }
